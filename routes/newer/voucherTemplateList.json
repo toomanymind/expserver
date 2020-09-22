@@ -1,0 +1,117 @@
+{
+  "msg": "操作成功",
+  "data": {
+    "totalsize": 18,
+    "items": [
+      {
+        "tempName": "发放工资",
+        "assistName": "工资",
+        "tempId": 838087453626702,
+        "assistId": 730474932930981
+      },
+      {
+        "tempName": "计提工资",
+        "assistName": "工资",
+        "tempId": 838057833126905,
+        "assistId": 730474932930981
+      },
+      {
+        "tempName": "付水电房租物业管理费",
+        "assistName": "日常支出",
+        "tempId": 827011185332000,
+        "assistId": 730474931051334
+      },
+      {
+        "tempName": "利息收入",
+        "assistName": "日常支出",
+        "tempId": 826030360201760,
+        "assistId": 730474931051334
+      },
+      {
+        "tempName": "报销业务招待费",
+        "assistName": "日常支出",
+        "tempId": 826301339880749,
+        "assistId": 730474931051334
+      },
+      {
+        "tempName": "报销差旅费",
+        "assistName": "日常支出",
+        "tempId": 826152273357065,
+        "assistId": 730474931051334
+      },
+      {
+        "tempName": "提现",
+        "assistName": "日常支出",
+        "tempId": 827042432464660,
+        "assistId": 730474931051334
+      },
+      {
+        "tempName": "支付电话费",
+        "assistName": "日常支出",
+        "tempId": 826226698521390,
+        "assistId": 730474931051334
+      },
+      {
+        "tempName": "支付银行手续费",
+        "assistName": "日常支出",
+        "tempId": 826111811009759,
+        "assistId": 730474931051334
+      },
+      {
+        "tempName": "购入固定资产",
+        "assistName": "日常支出",
+        "tempId": 836613878048616,
+        "assistId": 730474931051334
+      },
+      {
+        "tempName": "缴纳地税",
+        "assistName": "税金",
+        "tempId": 838329264150902,
+        "assistId": 730474934240740
+      },
+      {
+        "tempName": "计提地税",
+        "assistName": "税金",
+        "tempId": 838222511704581,
+        "assistId": 730474934240740
+      },
+      {
+        "tempName": "计提所得税",
+        "assistName": "税金",
+        "tempId": 838256112108842,
+        "assistId": 730474934240740
+      },
+      {
+        "tempName": "付货款",
+        "assistName": "采购",
+        "tempId": 837838016872407,
+        "assistId": 730474934030997
+      },
+      {
+        "tempName": "采购商品",
+        "assistName": "采购",
+        "tempId": 837811848290613,
+        "assistId": 730474934030997
+      },
+      {
+        "tempName": "收货款",
+        "assistName": "销售",
+        "tempId": 836755301400519,
+        "assistId": 730474933069372
+      },
+      {
+        "tempName": "现款销售",
+        "assistName": "销售",
+        "tempId": 836663674876720,
+        "assistId": 730474933069372
+      },
+      {
+        "tempName": "赊销",
+        "assistName": "销售",
+        "tempId": 836728958205107,
+        "assistId": 730474933069372
+      }
+    ]
+  },
+  "status": 200
+}

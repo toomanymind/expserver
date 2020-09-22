@@ -1,0 +1,59 @@
+{
+  "code": 200,
+  "data": {
+    "totalBalance": {
+      "date": "",
+      "balance": "",
+      "srcId": "",
+      "id": 1,
+      "explanation": "本月合计",
+      "debit": 0,
+      "credit": 150,
+      "type": "本月合计"
+    },
+    "totalCount": 3,
+    "items": [
+      {
+        "date": "2019-11-01",
+        "balance": -50,
+        "oppAcctName": "",
+        "remark": "",
+        "id": 1000000017,
+        "explanation": "ttets",
+        "debit": 0,
+        "credit": 50
+      },
+      {
+        "date": "2019-11-02",
+        "balance": -100,
+        "oppAcctName": "",
+        "remark": "",
+        "id": 1000000009,
+        "explanation": "tt",
+        "debit": 0,
+        "credit": 50
+      },
+      {
+        "date": "2019-11-02",
+        "balance": -150,
+        "oppAcctName": "",
+        "remark": "",
+        "id": 1000000016,
+        "explanation": "tt55",
+        "debit": 0,
+        "credit": 50
+      }
+    ],
+    "beginBalance": {
+      "date": "",
+      "balance": 0,
+      "id": 1000000015,
+      "explanation": "初始余额",
+      "debit": "",
+      "credit": "",
+      "type": "初始余额"
+    }
+  },
+  "msg": "success",
+  "status": 200
+}

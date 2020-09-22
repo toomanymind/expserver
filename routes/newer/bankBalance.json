@@ -1,0 +1,248 @@
+{
+  "code": 200,
+  "data": {
+    "journal": [
+      {
+        "balance": 78,
+        "desc": "银行存款日记账余额"
+      },
+      {
+        "balance": 0,
+        "desc": "加：银行已收企业未收"
+      },
+      [
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "journal_rec_unmatched_1"
+        },
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "journal_rec_unmatched_2"
+        },
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "journal_rec_unmatched_3"
+        },
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "journal_rec_unmatched_4"
+        },
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "journal_rec_unmatched_5"
+        },
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "journal_rec_unmatched_6"
+        },
+        {
+          "id": 1,
+          "balance": 1,
+          "date": "2019-03-01",
+          "desc": "journal_rec_unreached_1"
+        },
+        {
+          "id": 2,
+          "balance": 2,
+          "date": "2019-03-01",
+          "desc": "journal_rec_unreached_2"
+        },
+        {
+          "id": 3,
+          "balance": 3,
+          "date": "2019-03-01",
+          "desc": "journal_rec_unreached_3"
+        },
+        {
+          "id": 4,
+          "balance": 4,
+          "date": "2019-03-01",
+          "desc": "journal_rec_unreached_4"
+        },
+        {
+          "id": 5,
+          "balance": 5,
+          "date": "2019-03-01",
+          "desc": "journal_rec_unreached_5"
+        },
+        {
+          "id": 6,
+          "balance": 6,
+          "date": "2019-03-01",
+          "desc": "journal_rec_unreached_6"
+        },
+        {
+          "id": 7,
+          "balance": 7,
+          "date": "2019-03-01",
+          "desc": "journal_rec_unreached_7"
+        }
+      ],
+      {
+        "balance": 0,
+        "desc": "减：银行已付企业未付"
+      },
+      [
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "journal_pay_unmatched_1"
+        },
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "journal_pay_unmatched_2"
+        },
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "journal_pay_unmatched_3"
+        },
+        {
+          "id": 1,
+          "balance": 1,
+          "date": "2019-03-01",
+          "desc": "journal_pay_unreached_1"
+        }
+      ],
+      {
+        "balance": 78,
+        "desc": "调节后余额"
+      }
+    ],
+    "bank": [
+      {
+        "balance": 0,
+        "desc": "银行对账单余额"
+      },
+      {
+        "balance": 0,
+        "desc": "加：企业已收银行未收"
+      },
+      [
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "bank_rec_unmatched_1"
+        },
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "bank_rec_unmatched_2"
+        },
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "bank_rec_unmatched_3"
+        },
+        {
+          "id": 1,
+          "balance": 1,
+          "date": "2019-03-01",
+          "desc": "bank_rec_unreached_1"
+        },
+        {
+          "id": 2,
+          "balance": 2,
+          "date": "2019-03-01",
+          "desc": "bank_rec_unreached_2"
+        },
+        {
+          "id": 3,
+          "balance": 3,
+          "date": "2019-03-01",
+          "desc": "bank_rec_unreached_3"
+        }
+      ],
+      {
+        "balance": 0,
+        "desc": "减：企业已付银行未付"
+      },
+      [
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "bank_pay_unmatched_1"
+        },
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "bank_pay_unmatched_2"
+        },
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "bank_pay_unmatched_3"
+        },
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "bank_pay_unmatched_4"
+        },
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "bank_pay_unmatched_5"
+        },
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "bank_pay_unmatched_6"
+        },
+        {
+          "balance": 22,
+          "date": "2019-03-01",
+          "desc": "bank_pay_unmatched_7"
+        },
+        {
+          "id": 1,
+          "balance": 1,
+          "date": "2019-03-01",
+          "desc": "bank_pay_unreached_1"
+        },
+        {
+          "id": 2,
+          "balance": 2,
+          "date": "2019-03-01",
+          "desc": "bank_pay_unreached_2"
+        },
+        {
+          "id": 3,
+          "balance": 3,
+          "date": "2019-03-01",
+          "desc": "bank_pay_unreached_3"
+        },
+        {
+          "id": 4,
+          "balance": 4,
+          "date": "2019-03-01",
+          "desc": "bank_pay_unreached_4"
+        },
+        {
+          "id": 5,
+          "balance": 5,
+          "date": "2019-03-01",
+          "desc": "bank_pay_unreached_5"
+        },
+        {
+          "id": 6,
+          "balance": 6,
+          "date": "2019-03-01",
+          "desc": "bank_pay_unreached_6"
+        }
+      ],
+      {
+        "balance": 0,
+        "desc": "调节后余额"
+      }
+    ]
+  },
+  "msg": "success",
+  "status": 200
+}

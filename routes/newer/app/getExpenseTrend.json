@@ -1,0 +1,74 @@
+{
+  "msg": "操作成功",
+  "data": {
+    "totalsize": 13,
+    "items": [
+      {
+        "manageExpAmt": 0,
+        "salesExpAmt": 0,
+        "financialExpAmt": 0
+      },
+      {
+        "manageExpAmt": 0,
+        "salesExpAmt": 0,
+        "financialExpAmt": 0
+      },
+      {
+        "manageExpAmt": 0,
+        "salesExpAmt": 0,
+        "financialExpAmt": 0
+      },
+      {
+        "manageExpAmt": 0,
+        "salesExpAmt": 0,
+        "financialExpAmt": 0
+      },
+      {
+        "manageExpAmt": 0,
+        "salesExpAmt": 0,
+        "financialExpAmt": 0
+      },
+      {
+        "manageExpAmt": 0,
+        "salesExpAmt": 0,
+        "financialExpAmt": 0
+      },
+      {
+        "manageExpAmt": 0,
+        "salesExpAmt": 0,
+        "financialExpAmt": 0
+      },
+      {
+        "manageExpAmt": 0,
+        "salesExpAmt": 0,
+        "financialExpAmt": 0
+      },
+      {
+        "manageExpAmt": 0,
+        "salesExpAmt": 0,
+        "financialExpAmt": 0
+      },
+      {
+        "manageExpAmt": 0,
+        "salesExpAmt": 0,
+        "financialExpAmt": 0
+      },
+      {
+        "manageExpAmt": 0,
+        "salesExpAmt": 0,
+        "financialExpAmt": 0
+      },
+      {
+        "manageExpAmt": 0,
+        "salesExpAmt": 0,
+        "financialExpAmt": 0
+      },
+      {
+        "manageExpAmt": 0,
+        "salesExpAmt": 0,
+        "financialExpAmt": 0
+      }
+    ]
+  },
+  "status": 200
+}

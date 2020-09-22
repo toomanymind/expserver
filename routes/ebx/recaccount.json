@@ -1,0 +1,92 @@
+{
+  "status": 200,
+  "msg": "success",
+  "data": [
+    {
+      "dbid": "10087971",
+      "type": 0,
+      "openId": "5a27977de4b00429662e8bad",
+      "isDefault": 0,
+      "accountinfo": {
+        "desc": "",
+        "name": "1111",
+        "type": "bank",
+        "phone": "",
+        "number": "111111",
+        "bankinfo": "111111"
+      },
+      "id": 576,
+      "createTime": 1553654904000,
+      "modifiedTime": 1553654904000,
+      "isPublic": null
+    },
+    {
+      "dbid": "10087971",
+      "type": 0,
+      "openId": "5a27977de4b00429662e8bad",
+      "isDefault": 0,
+      "accountinfo": {
+        "desc": "",
+        "name": "bbbbbb",
+        "type": "bank",
+        "phone": "bbbbbbbb",
+        "number": "1231313212",
+        "bankinfo": "bbbbbb"
+      },
+      "id": 574,
+      "createTime": 1553223298000,
+      "modifiedTime": 1553223298000,
+      "isPublic": null
+    },
+    {
+      "dbid": "10087971",
+      "openId": "5a27977de4b00429662e8bad",
+      "isDefault": 0,
+      "accountinfo": {
+        "desc": "asdfsadf",
+        "name": "aaaaaaaaa",
+        "type": "wechat",
+        "phone": "",
+        "number": "21221321",
+        "bankinfo": ""
+      },
+      "id": 573,
+      "type": 0,
+      "createTime": 1553222961000,
+      "modifiedTime": 1553223055000,
+      "isPublic": null
+    },
+    {
+      "id": 571,
+      "type": 0,
+      "isPublic": 0,
+      "isDefault": 0,
+      "accountinfo": {
+        "desc": "3",
+        "name": "3333",
+        "type": "bank",
+        "phone": "3",
+        "number": "3",
+        "bankinfo": "3"
+      },
+      "createTime": 1553156211000,
+      "modifiedTime": 1553156228000
+    },
+    {
+      "id": 570,
+      "type": 0,
+      "isPublic": 0,
+      "isDefault": 0,
+      "accountinfo": {
+        "desc": "aaa",
+        "name": "aaa",
+        "type": "bank",
+        "phone": "aaa",
+        "number": "123",
+        "bankinfo": "aaa"
+      },
+      "createTime": 1553155896000,
+      "modifiedTime": 1553155911000
+    }
+  ]
+}

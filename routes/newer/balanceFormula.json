@@ -1,0 +1,1 @@
+{"msg":"操作成功","data":{"userdata":{"arg_1":"62.00","arg_2":"0.00","subject":"合计"},"rows":[{"symbol":"+","arg_1":0,"arg_2":0,"subject":"1002 银行存款","rule":"Y"},{"symbol":"+","arg_1":0,"arg_2":0,"subject":"1012 其他货币资金","rule":"Y"},{"symbol":"+","arg_1":62,"arg_2":0,"subject":"1001 库存现金","rule":"Y"}]},"status":200}

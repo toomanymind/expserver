@@ -1,0 +1,20 @@
+{
+  "status": 200,
+  "msg": "success",
+  "data": [
+    {
+      "dbid": "10087971",
+      "rightid": 101,
+      "rightname": "会计复核权限",
+      "openId": "5a27977de4b00429662e8bad",
+      "name": "钟瑜"
+    },
+    {
+      "dbid": "10087971",
+      "rightid": 102,
+      "rightname": "出纳付款权限",
+      "openId": "5a27977de4b00429662e8bad",
+      "name": "钟瑜"
+    }
+  ]
+}

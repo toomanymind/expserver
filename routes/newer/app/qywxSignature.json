@@ -1,0 +1,11 @@
+{
+  "status": 200,
+  "errcode": "0",
+  "errmessage": "success",
+  "data": {
+    "signature": "58be5f02ac2d07c967ce97e7c74546cac109236d",
+    "appId": "ww3fa54053517e351a",
+    "nonceStr": "80d9ce06-5a1b-474b-af51-a21b1fa25ca1",
+    "timestamp": "22222"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "msg":"操作成功",
+  "data":{
+    "data":[
+      {
+        "cur":"RMB",
+        "empId":0,
+        "itemId1":0,
+        "accountnumber":"1405",
+        "supplierId":0,
+        "deptId":0,
+        "ROWNU":1,
+        "itemClassId1":0,
+        "yearperiod":202001,
+        "endqty": 1000,
+        "customId":0,
+        "itemClassId":0,
+        "accountid":835331411071781,
+        "itemId":0,
+        "unit":"g",
+        "accountname":"库存商品",
+        "price":500,
+        "inventoryId":0,
+        "accountFullName":"库存商品",
+        "isItem":0,
+        "projectId":0,
+        "endbalance":500,
+        "dc":1
+      }
+    ],
+    "page": 1,
+    "total": 1,
+    "records": 1,
+    "setting":{
+      "itemNumber":"1-1",
+      "itemId1":593080444697100,
+      "salesCostAcctName":"主营业务成本",
+      "empNumber":"001",
+      "inventoryAcctId":804609795342029,
+      "itemClassId1":"593024903407509",
+      "inventoryAcctNumber":"1405",
+      "itemClassId":"593004904760176",
+      "inventoryAcctName":"库存商品",
+      "itemId":593063544004353,
+      "itemName":"y1",
+      "salesCostAcctNumber":"5401",
+      "salesCostAcctId":804609912942982,
+      "itemNumber1":"1-1",
+      "itemName1":"d1",
+      "empName":"李梅娜",
+      "empId":804955932629062
+    },
+    "voucherId": 926242831206956,
+    "voucherNo": "记-7"
+  },
+  "status":200
+}

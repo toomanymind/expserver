@@ -1,0 +1,19 @@
+{
+  "status": 200,
+  "msg": "success",
+  "data": {
+    "orgId": "c7df4034-deb4-11e6-a7ea-ecf4bbea1498",
+    "isSet": true,
+    "status": "1",
+    "department": "研发部",
+    "name": "钟瑜",
+    "gender": "2",
+    "isAdmin": "1",
+    "isTopCharger": false,
+    "jobNo": "",
+    "globalId": "55a48144e4b01b9ade519f31",
+    "photoUrl": "http://static.yunzhijia.com/space/c/photo/load?id=5d371d7790144e18598eb11f",
+    "openId": "5a27977de4b00429662e8bad",
+    "jobTitle": ""
+  }
+}

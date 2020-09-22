@@ -1,0 +1,105 @@
+{
+  "msg": "操作成功",
+  "data": {
+    "totalsize": 16,
+    "items": [
+      {
+        "accountId": 79509544953,
+        "name": "会计",
+        "serviceId": "79509544953",
+        "url": "https://vip1.jdy.com"
+      },
+      {
+        "accountId": 791239153292,
+        "name": "111",
+        "serviceId": "79509544962",
+        "url": "https://vip1.jdy.com"
+      },
+      {
+        "accountId": 791239186390,
+        "name": "123",
+        "serviceId": "79509544962",
+        "url": "https://vip1.jdy.com"
+      },
+      {
+        "accountId": 79639743910717,
+        "name": "未启用",
+        "serviceId": "79509544962",
+        "url": "https://vip1.jdy.com"
+      },
+      {
+        "accountId": 791239183590,
+        "name": "222",
+        "serviceId": "79509544962",
+        "url": "https://vip1.jdy.com"
+      },
+      {
+        "accountId": 7912392221920,
+        "name": "新账套",
+        "serviceId": "79509544962",
+        "url": "https://vip1.jdy.com"
+      },
+      {
+        "accountId": 791239188792,
+        "name": "qqq",
+        "serviceId": "79509544962",
+        "url": "https://vip1.jdy.com"
+      },
+      {
+        "accountId": 79155922792,
+        "name": "rrr",
+        "serviceId": "79509544962",
+        "url": "https://vip1.jdy.com"
+      },
+      {
+        "accountId": 7912392107914,
+        "name": "t",
+        "serviceId": "79509544962",
+        "url": "https://vip1.jdy.com"
+      },
+      {
+        "accountId": 791239200396,
+        "name": "www",
+        "serviceId": "79509544962",
+        "url": "https://vip1.jdy.com"
+      },
+      {
+        "accountId": 7963948891090,
+        "name": "多账套的会计",
+        "serviceId": "79509544962",
+        "url": "https://vip1.jdy.com"
+      },
+      {
+        "accountId": 795091126931,
+        "name": "sdf",
+        "serviceId": "795091126931",
+        "url": "https://vip1.jdy.com"
+      },
+      {
+        "accountId": 79106939193,
+        "name": "asfsdf",
+        "serviceId": "79106939193",
+        "url": "https://vip1.jdy.com"
+      },
+      {
+        "accountId": 7963972791785,
+        "name": "融合3",
+        "serviceId": "79509550934",
+        "url": "https://vip1.jdy.com"
+      },
+      {
+        "accountId": 796395049243,
+        "name": "融合",
+        "serviceId": "79509550934",
+        "url": "https://vip1.jdy.com"
+      },
+      {
+        "accountId": 79639547917862,
+        "name": "融合2",
+        "serviceId": "79509550934",
+        "url": "https://vip1.jdy.com"
+      }
+    ]
+  },
+  "status": 200
+}

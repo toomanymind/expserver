@@ -1,0 +1,46 @@
+{
+  "msg": "操作成功",
+  "data": {
+    "isBill": 0,
+    "evbusId": 11,
+    "isQM": 0,
+    "name": "采购商品（应付款）",
+    "type": 101,
+    "entrys": [
+      {
+        "rate": 86.20,
+        "evidbusId": 11,
+        "isItem": true,
+        "explanation": "A",
+        "account": "库存商品",
+        "inventoryId": 805030063661446,
+        "entryId": 1000000,
+        "reportItemId": "05*002",
+        "balanceSource": 1,
+        "dc": 1
+      },
+      {
+        "rate": 100,
+        "evidbusId": 11,
+        "isItem": false,
+        "explanation": "B",
+        "account": "应交税费_应交增值税_进项税额",
+        "entryId": 1000001,
+        "balanceSource": 2,
+        "dc": 1
+      },
+      {
+        "rate": 100,
+        "evidbusId": 11,
+        "isItem": true,
+        "explanation": "C",
+        "account": "应付账款",
+        "supplierId": 804937795252528,
+        "entryId": 1000002,
+        "balanceSource": 1,
+        "dc": -1
+      }
+    ]
+  },
+  "status": 200
+}

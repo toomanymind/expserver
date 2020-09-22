@@ -1,0 +1,1 @@
+{"msg":"操作成功","data":{"totalsize":8,"items":[{"name":"现金","reportitem":"05*001"},{"name":"银行存款","reportitem":"05*002"},{"name":"存货","reportitem":"05*003"},{"name":"应收账款","reportitem":"05*004"},{"name":"应付账款","reportitem":"05*005"},{"name":"主营业务收入","reportitem":"05*006"},{"name":"销售费用","reportitem":"05*007"},{"name":"管理费用","reportitem":"05*008"}]},"status":200}

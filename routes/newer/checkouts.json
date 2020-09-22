@@ -1,0 +1,206 @@
+{
+  "msg": "操作成功",
+  "data": {
+    "exception": "请到本页面设置汇兑损失科目！</br>",
+    "endDate": "2017-02-28",
+    "sum": 124,
+    "isBalance": 1,
+    "items": [
+      {
+        "date": "2017-02-28",
+        "summary": "计提折旧费用",
+        "amount": 123711.21,
+        "flag": 1,
+        "name": "计提折旧",
+        "vch": [
+          {
+            "voucherNo": "记-97",
+            "amount": "125251.41",
+            "edit": 0,
+            "voucherId": 302340406548031
+          }
+        ],
+        "id": -1,
+        "mark": "记"
+      },
+      {
+        "summary": "汇兑损益",
+        "date": "2017-02-28",
+        "classify": "0",
+        "cur": [
+          {
+            "FLASTRATE": 1,
+            "FCURRENCYID": 170728231685339,
+            "FRATE": 1,
+            "FCUR": "HKD",
+            "FISNATURAL": 0,
+            "FNAME": "港币"
+          },
+          {
+            "FLASTRATE": 1,
+            "FCURRENCYID": 170728231557746,
+            "FRATE": 1,
+            "FCUR": "USD",
+            "FISNATURAL": 0,
+            "FNAME": "美元"
+          }
+        ],
+        "amount": "",
+        "flag": 1,
+        "hdkmLoss": {},
+        "way": true,
+        "hdkm": {
+          "number": "3021",
+          "hdkmProjectId": 0,
+          "hdkmItemId": 0,
+          "hdkmEmpId": 0,
+          "hdkmInvId": 0,
+          "fullName": "本年利润",
+          "hdkmSupplierId": 0,
+          "id": 170733521283770,
+          "hdkmCustId": 0,
+          "hdkmDeptId": 0,
+          "hdkmItemclassId": 0
+        },
+        "name": "期末调汇",
+        "vch": [
+          {
+            "voucherNo": "记-114",
+            "amount": "-105570.82",
+            "edit": 0,
+            "voucherId": 302340782528960
+          }
+        ],
+        "id": -2,
+        "mark": "记"
+      },
+      {
+        "amount": 0,
+        "flag": 2,
+        "isNeed": 0,
+        "name": "转出未交增值税",
+        "vch": [],
+        "id": 24,
+        "describe": "转出未交增值税 0",
+        "entrys": [
+          {
+            "accountId": 0,
+            "rate": 100,
+            "explanation": "转出未交增值税",
+            "account": "应交税费_应交增值税_转出未交增值税",
+            "dc": "借"
+          },
+          {
+            "accountId": 0,
+            "rate": 100,
+            "explanation": "转出未交增值税",
+            "account": "应交税费_未交增值税",
+            "dc": "贷"
+          }
+        ]
+      },
+      {
+        "amount": 0,
+        "flag": 2,
+        "isNeed": 0,
+        "name": "计提地税",
+        "vch": [],
+        "id": 23,
+        "describe": "应交增值税、应交消费税合计 0",
+        "entrys": [
+          {
+            "accountId": 0,
+            "rate": 3,
+            "explanation": "计提教育费附加",
+            "account": "税金及附加",
+            "dc": "借"
+          },
+          {
+            "accountId": 0,
+            "rate": 3,
+            "explanation": "计提教育费附加",
+            "account": "应交税费_应交教育费附加",
+            "dc": "贷"
+          },
+          {
+            "accountId": 0,
+            "rate": 7,
+            "explanation": "计提城建税",
+            "account": "税金及附加",
+            "dc": "借"
+          },
+          {
+            "accountId": 0,
+            "rate": 7,
+            "explanation": "计提城建税",
+            "account": "应交税费_应交城市维护建设税",
+            "dc": "贷"
+          }
+        ]
+      },
+      {
+        "amount": 114360.865,
+        "flag": 2,
+        "name": "计提所得税",
+        "vch": [],
+        "id": 25,
+        "describe": "利润总额累计 457443.46",
+        "entrys": [
+          {
+            "accountId": 0,
+            "rate": 25,
+            "explanation": "计提所得税",
+            "account": "所得税_当期所得税费用",
+            "dc": "借"
+          },
+          {
+            "accountId": 0,
+            "rate": 25,
+            "explanation": "计提所得税",
+            "account": "应交税费_应交所得税",
+            "dc": "贷"
+          }
+        ]
+      },
+      {
+        "date": "2017-02-28",
+        "summary": "结转本期损益",
+        "jzkm": {
+          "number": "3022001",
+          "fullName": "利润分配_未分配利润",
+          "id": 170733524160222
+        },
+        "classify": "0",
+        "amount": 257692.07,
+        "flag": 1,
+        "limited": {},
+        "way": false,
+        "nolimited": {},
+        "name": "结转损益",
+        "lrkm": {
+          "number": "3021",
+          "fullName": "本年利润",
+          "id": 170733521283770
+        },
+        "vch": [
+          {
+            "voucherNo": "记-107",
+            "amount": "12138708.45",
+            "edit": 0,
+            "voucherId": 302341256532804
+          }
+        ],
+        "id": -3,
+        "mark": "记",
+        "tzkm": {
+          "number": "5060",
+          "fullName": "以前年度损益调整",
+          "id": 170733996286968
+        }
+      },
+      {"summary":"结转销售成本","flag":2,"name":"结转销售成本","vch":[{"voucherNo":"记-7","amount":60,"voucherId":926242831206956}],"id":5}
+    ],
+    "startDate": "2017-02-01"
+  },
+  "status": 200
+}

@@ -1,0 +1,9 @@
+{
+  "msg": "操作成功",
+  "data": {
+    "periodType": "BQ#BL#SL#",
+    "itemIds": "1#2#3#4#5",
+    "itemClassId": 6
+  },
+  "status": 200
+}

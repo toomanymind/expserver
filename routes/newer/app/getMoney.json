@@ -1,0 +1,66 @@
+{
+  "msg": "操作成功",
+  "data": {
+    "name": "资金",
+    "endBlance": -9470.54,
+    "childs": [
+      {
+        "endBalance": -152481.95,
+        "name": "库存现金",
+        "childs": []
+      },
+      {
+        "endBalance": 143011.41,
+        "name": "银行存款",
+        "childs": [
+          {
+            "endBalance": 75632.17,
+            "name": "农行单位账户"
+          },
+          {
+            "endBalance": 64952.37,
+            "name": "邮政旭卡64009"
+          },
+          {
+            "endBalance": 27728.86,
+            "name": "农行左卡8365"
+          },
+          {
+            "endBalance": 10000,
+            "name": "承兑"
+          },
+          {
+            "endBalance": 9874.55,
+            "name": "建设银行旭卡094"
+          },
+          {
+            "endBalance": 9462.14,
+            "name": "中国银行旭卡7735"
+          },
+          {
+            "endBalance": 356.55,
+            "name": "工商银行5645"
+          },
+          {
+            "endBalance": -40,
+            "name": "衡水商业银行王进伏7671"
+          },
+          {
+            "endBalance": -260,
+            "name": "农村信用社591"
+          },
+          {
+            "endBalance": -25068.95,
+            "name": "农行左卡9819"
+          },
+          {
+            "endBalance": -29626.28,
+            "name": "农行左卡3216"
+          }
+        ]
+      }
+    ],
+    "dc": 1
+  },
+  "status": 200
+}

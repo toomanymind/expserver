@@ -1,0 +1,36 @@
+{
+  "msg": "操作成功",
+  "data": {
+    "totalsize": 7,
+    "items": [{
+      "endBalance": 473649.88,
+      "name": "我的资金",
+      "id": "money"
+    }, {
+      "endBalance": 3915574.5,
+      "name": "应收账款",
+      "id": "loan"
+    }, {
+      "endBalance": 75100,
+      "name": "应付账款",
+      "id": "borrow"
+    }, {
+      "name": "主营业务收入",
+      "ytdamount": 0,
+      "id": "mainincome"
+    }, {
+      "name": "管理费用",
+      "ytdamount": 0,
+      "id": "mgrfee"
+    }, {
+      "name": "销售费用",
+      "ytdamount": 0,
+      "id": "salefee"
+    }, {
+      "name": "财务费用",
+      "ytdamount": 0,
+      "id": "financefee"
+    }]
+  },
+  "status": 200
+}

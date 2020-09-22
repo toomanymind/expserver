@@ -1,0 +1,100 @@
+{
+  "msg": "操作成功",
+  "data": {
+    "isBeginBal": true,
+    "noAccount": [],
+    "items": [
+      {
+        "rownum": 1,
+        "prebalance": "",
+        "balance": "-151,678.95",
+        "datasource": 1,
+        "name": "现金",
+        "formula": "",
+        "id": 1,
+        "reportitem": "05*001",
+        "dc": 1
+      },
+      {
+        "rownum": 2,
+        "prebalance": "",
+        "balance": "12,242,327,142,813.41",
+        "datasource": 1,
+        "name": "银行存款",
+        "formula": "",
+        "id": 2,
+        "reportitem": "05*002",
+        "dc": 1
+      },
+      {
+        "rownum": 3,
+        "prebalance": "",
+        "balance": "523,232,122,698,574.91",
+        "datasource": 1,
+        "name": "存货",
+        "formula": "",
+        "id": 3,
+        "reportitem": "05*003",
+        "dc": 1
+      },
+      {
+        "rownum": 4,
+        "prebalance": "",
+        "balance": "-421,532,127,614.61",
+        "datasource": 1,
+        "name": "应收账款",
+        "formula": "",
+        "id": 4,
+        "reportitem": "05*004",
+        "dc": 1
+      },
+      {
+        "rownum": 5,
+        "prebalance": "",
+        "balance": "32,339.90",
+        "datasource": 1,
+        "name": "应付账款",
+        "formula": "",
+        "id": 5,
+        "reportitem": "05*005",
+        "dc": 1
+      },
+      {
+        "rownum": 6,
+        "prebalance": "",
+        "balance": "",
+        "datasource": 1,
+        "name": "主营业务收入",
+        "formula": "",
+        "id": 6,
+        "reportitem": "05*006",
+        "dc": 1
+      },
+      {
+        "rownum": 7,
+        "prebalance": "",
+        "balance": "226,957.95",
+        "datasource": 1,
+        "name": "销售费用",
+        "formula": "",
+        "id": 7,
+        "reportitem": "05*007",
+        "dc": 1
+      },
+      {
+        "rownum": 8,
+        "prebalance": "",
+        "balance": "-100.00",
+        "datasource": 1,
+        "name": "管理费用",
+        "formula": "",
+        "id": 8,
+        "reportitem": "05*008",
+        "dc": 1
+      }
+    ],
+    "isbal": true,
+    "isplbal": true
+  },
+  "status": 200
+}

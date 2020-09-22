@@ -1,0 +1,184 @@
+{
+  "msg": "操作成功",
+  "data": {
+    "totalsize": 25,
+    "items": [
+      {
+        "desc": "|一、经营活动产生的现金流量：",
+        "reportItem": "18*001",
+        "datasource": 0,
+        "rownum": 0,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 销售产成品、商品、提供劳务收到的现金",
+        "reportItem": "18*001*001",
+        "datasource": 2,
+        "rownum": 1,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 收到其他与经营活动有关的现金",
+        "reportItem": "18*001*002",
+        "datasource": 2,
+        "rownum": 2,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 购买原材料、商品、接受劳务支付的现金",
+        "reportItem": "18*001*003",
+        "datasource": 2,
+        "rownum": 3,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 支付的职工薪酬",
+        "reportItem": "18*001*004",
+        "datasource": 2,
+        "rownum": 4,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 支付的税费",
+        "reportItem": "18*001*005",
+        "datasource": 2,
+        "rownum": 5,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 支付其他与经营活动有关的现金",
+        "reportItem": "18*001*006",
+        "datasource": 2,
+        "rownum": 6,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 经营活动产生的现金流量净额",
+        "reportItem": "18*001*007",
+        "datasource": 3,
+        "rownum": 7,
+        "flowDc": -1
+      },
+      {
+        "desc": "|二、投资活动产生的现金流量：",
+        "reportItem": "18*002",
+        "datasource": 0,
+        "rownum": 0,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 收回短期投资、长期债券投资和长期股权投资收到的现金",
+        "reportItem": "18*002*001",
+        "datasource": 2,
+        "rownum": 8,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 取得投资收益收到的现金",
+        "reportItem": "18*002*002",
+        "datasource": 2,
+        "rownum": 9,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 处置固定资产、无形资产和其他非流动资产收回的现金净额",
+        "reportItem": "18*002*003",
+        "datasource": 1,
+        "rownum": 10,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 短期投资、长期债券投资和长期股权投资支付的现金",
+        "reportItem": "18*002*004",
+        "datasource": 1,
+        "rownum": 11,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 购建固定资产、无形资产和其他非流动资产支付的现金",
+        "reportItem": "18*002*005",
+        "datasource": 2,
+        "rownum": 12,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 投资活动产生的现金流量净额 ",
+        "reportItem": "18*002*006",
+        "datasource": 3,
+        "rownum": 13,
+        "flowDc": -1
+      },
+      {
+        "desc": "|三、筹资活动产生的现金流量：",
+        "reportItem": "18*003",
+        "datasource": 0,
+        "rownum": 0,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 取得借款收到的现金",
+        "reportItem": "18*003*001",
+        "datasource": 2,
+        "rownum": 14,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 吸收投资者投资收到的现金",
+        "reportItem": "18*003*002",
+        "datasource": 2,
+        "rownum": 15,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 偿还借款本金支付的现金",
+        "reportItem": "18*003*003",
+        "datasource": 1,
+        "rownum": 16,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 偿还借款利息支付的现金",
+        "reportItem": "18*003*004",
+        "datasource": 2,
+        "rownum": 17,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 分配利润支付的现金",
+        "reportItem": "18*003*005",
+        "datasource": 2,
+        "rownum": 18,
+        "flowDc": -1
+      },
+      {
+        "desc": "| 筹资活动产生的现金流量净额",
+        "reportItem": "18*003*006",
+        "datasource": 3,
+        "rownum": 19,
+        "flowDc": -1
+      },
+      {
+        "desc": "|四、现金净增加额",
+        "reportItem": "18*004",
+        "datasource": 3,
+        "rownum": 20,
+        "flowDc": -1
+      },
+      {
+        "desc": "|加：期初现金余额",
+        "reportItem": "18*004*001",
+        "datasource": 2,
+        "rownum": 21,
+        "flowDc": -1
+      },
+      {
+        "desc": "|五、期末现金余额",
+        "reportItem": "18*005",
+        "datasource": 3,
+        "rownum": 22,
+        "flowDc": -1
+      }
+    ]
+  },
+  "status": 200
+}

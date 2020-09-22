@@ -1,0 +1,8 @@
+{
+  "msg": "操作成功",
+  "data": {
+    "fiSwitch": "1",
+    "order": "{\"favs\":\"book-subsidiaryLedger,book-subjectBalance,voucher-list\",\"dbid\":7950922921,\"theme\":\"theme2\"}"
+  },
+  "status": 200
+}

@@ -1,0 +1,29 @@
+{
+  "code": 200,
+  "data": [
+    [
+      {
+        "date": "2019-11-02",
+        "billName": "银行日记账",
+        "accountName": "",
+        "id": 10000000014,
+        "type": 1,
+        "explanation": "tt55",
+        "debit": 50,
+        "credit": 0
+      },
+      {
+        "date": "2019-11-02",
+        "billName": "银行对账单",
+        "accountName": "",
+        "id": 1000000009,
+        "type": 2,
+        "explanation": "tt",
+        "debit": 0,
+        "credit": 50
+      }
+    ]
+  ],
+  "msg": "success",
+  "status": 200
+}

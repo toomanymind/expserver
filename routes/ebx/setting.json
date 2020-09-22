@@ -1,0 +1,19 @@
+{
+  "status": 200,
+  "msg": "success",
+  "data": {
+    "dbid": "10087971",
+    "mode": 2,
+    "value": "5a27977de4b00429662e8bad",
+    "name": "钟瑜",
+    "nodes": [
+      {
+        "dbid": "10087971",
+        "openId": "5a27977de4b00429662e8bad",
+        "index": 1,
+        "mode": 2,
+        "name": "钟瑜"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "msg": "操作成功",
+  "data": {
+    "paramObj": {
+      "periodTo": "201702",
+      "notIncludeNOHappen": false,
+      "periodFrom": "201702",
+      "toAccountId": "a",
+      "accountNumber": "a",
+      "accountlevenFrom": "1",
+      "accountlevenTo": "10",
+      "itemClassID": 0,
+      "balance": "1",
+      "fromAccountId": "a",
+      "queryVoucher": 0,
+      "happenAndBalance": "1",
+      "findBy": "findByPeriod",
+      "currency": "STD",
+      "includeItem": "1",
+      "detail": 0
+    },
+    "items": [{
+      "number": "1001",
+      "isjrnl": false,
+      "name": "现金",
+      "index": 0,
+      "fullName": "现金",
+      "id": "170728354414991",
+      "accountNumber": "1001",
+      "parentId": "0",
+      "dc": 1
+    }]
+  },
+  "status": 200
+}

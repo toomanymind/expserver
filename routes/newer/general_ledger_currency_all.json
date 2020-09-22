@@ -1,0 +1,72 @@
+{
+  "total": 1,
+  "records": 1,
+  "page": 1,
+  "rows": [
+    [
+      {
+        "dcType": "借",
+        "gcredit": "0.00",
+        "gdc": "1",
+        "yearPeriod": "201904",
+        "gcreditFor": "0.00",
+        "gdebitFor": "0.00",
+        "number": "1101",
+        "gbalance": "975",
+        "gbalanceFor": "975",
+        "gdebit": "0.00",
+        "name": "短期投资",
+        "id": "460802876266195",
+        "exp": "期初余额",
+        "curRate": "ALL/1.00000000"
+      },
+      {
+        "dcType": "借",
+        "gcredit": "0",
+        "gdc": "1",
+        "yearPeriod": "201904",
+        "gcreditFor": "0",
+        "gdebitFor": "0",
+        "number": "1101",
+        "gbalance": "975",
+        "gbalanceFor": "975",
+        "gdebit": "0",
+        "name": "短期投资",
+        "id": "460802876266195",
+        "exp": "本期合计",
+        "curRate": "ALL/1.00000000"
+      },
+      {
+        "dcType": "借",
+        "gcredit": "0",
+        "gdc": "1",
+        "yearPeriod": "201904",
+        "gcreditFor": "0",
+        "gdebitFor": "5",
+        "number": "1101",
+        "gbalance": "1005",
+        "gbalanceFor": "980",
+        "gdebit": "30",
+        "name": "短期投资",
+        "id": "460802876266195",
+        "exp": "本期合计",
+        "curRate": "ALL/1.00000000"
+      },
+      {
+        "dcType": "借",
+        "gcredit": "0",
+        "gdc": "1",
+        "yearPeriod": "201904",
+        "gcreditFor": "0",
+        "gdebitFor": "1005",
+        "number": "1101",
+        "gbalance": "1005",
+        "gdebit": "1005",
+        "name": "短期投资",
+        "id": "460802876266195",
+        "exp": "本年累计",
+        "curRate": "ALL"
+      }
+    ]
+  ]
+}

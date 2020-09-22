@@ -1,0 +1,41 @@
+{
+  "status": 200,
+  "msg": "success",
+  "data": [
+    {
+      "id": 1,
+      "source": "true",
+      "name": "库存现金",
+      "accountnumber": "1001",
+      "number": "001"
+    },
+    {
+      "id": 2,
+      "source": "true",
+      "name": "银行存款",
+      "accountnumber": "1002",
+      "number": "002"
+    },
+    {
+      "id": 59,
+      "source": "false",
+      "name": "测试ceshihhh测试测试",
+      "accountnumber": null,
+      "number": "006"
+    },
+    {
+      "id": 63,
+      "source": "false",
+      "name": "2",
+      "accountnumber": "2",
+      "number": "2"
+    },
+    {
+      "id": 39,
+      "source": "false",
+      "name": "21",
+      "accountnumber": "1",
+      "number": "1"
+    }
+  ]
+}

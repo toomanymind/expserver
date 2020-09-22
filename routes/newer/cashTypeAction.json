@@ -1,0 +1,100 @@
+{
+	"status": 200,
+	"data": {
+		"items": [{
+				"accountNumber": "660107",
+				"status": 1,
+				"name": "长途",
+				"isDelete": false,
+				"accountName": "销售费用_差旅费",
+				"imgName": "longdistance",
+				"id": 1,
+				"accountId": 108180132981082
+			},
+			{
+				"accountNumber": "660107",
+				"status": 1,
+				"name": "交通",
+				"isDelete": false,
+				"accountName": "销售费用_差旅费",
+				"imgName": "transport",
+				"id": 2,
+				"accountId": 108180132981082
+			},
+			{
+				"accountNumber": "660109",
+				"status": 1,
+				"name": "话费",
+				"isDelete": false,
+				"accountName": "销售费用_通讯费",
+				"imgName": "frees",
+				"id": 3,
+				"accountId": 108180135040775
+			},
+			{
+				"accountNumber": "660206",
+				"status": 1,
+				"name": "汽油",
+				"isDelete": false,
+				"accountName": "管理费用_市内交通费",
+				"imgName": "petrol",
+				"id": 4,
+				"accountId": 108180158553754
+			},
+			{
+				"accountNumber": "660105",
+				"status": 1,
+				"name": "餐饮",
+				"isDelete": false,
+				"accountName": "销售费用_交际应酬费",
+				"imgName": "diet",
+				"id": 5,
+				"accountId": 108180130338840
+			},
+			{
+				"accountNumber": "660107",
+				"status": 1,
+				"name": "住宿",
+				"isDelete": false,
+				"accountName": "销售费用_差旅费",
+				"imgName": "hotel",
+				"id": 6,
+				"accountId": 108180132981082
+			},
+			{
+				"accountNumber": "660101",
+				"status": 1,
+				"name": "办公",
+				"isDelete": false,
+				"accountName": "销售费用_办公用品",
+				"imgName": "office",
+				"id": 7,
+				"accountId": 108180126112930
+			},
+			{
+				"accountNumber": "660108",
+				"status": 1,
+				"name": "补贴",
+				"isDelete": false,
+				"accountName": "销售费用_补助",
+				"imgName": "bonus",
+				"id": 8,
+				"accountId": 108180133193696
+			},
+			{
+				"accountNumber": "1221",
+				"status": 1,
+				"name": "借款",
+				"isDelete": false,
+				"accountName": "其他应收款",
+				"imgName": "loan",
+				"id": 9,
+				"accountId": 108179958923994
+			}
+		],
+		"total": 1,
+		"page": 1,
+		"records": 9
+	},
+	"msg": "操作成功"
+}

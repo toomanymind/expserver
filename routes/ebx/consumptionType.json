@@ -1,0 +1,126 @@
+{
+  "status": 200,
+  "msg": "success",
+  "data": [
+    {
+      "dbid": "10087971",
+      "exptypeid": 1,
+      "name": "长途",
+      "isdelete": 0,
+      "imgname": "longdistance",
+      "status": 1,
+      "parentId": 0,
+      "level": 1
+    },
+    {
+      "dbid": "10087971",
+      "exptypeid": 2,
+      "name": "交通",
+      "isdelete": 0,
+      "imgname": "transport",
+      "status": 1,
+      "parentId": 0,
+      "level": 1
+    },
+    {
+      "dbid": "10087971",
+      "exptypeid": 3,
+      "name": "话费",
+      "isdelete": 0,
+      "imgname": "frees",
+      "status": 1,
+      "parentId": 0,
+      "level": 1
+    },
+    {
+      "dbid": "10087971",
+      "exptypeid": 4,
+      "name": "汽油",
+      "isdelete": 0,
+      "imgname": "petrol",
+      "status": 1,
+      "parentId": 0,
+      "level": 1
+    },
+    {
+      "dbid": "10087971",
+      "exptypeid": 5,
+      "name": "餐饮",
+      "isdelete": 0,
+      "imgname": "diet",
+      "status": 1,
+      "parentId": 0,
+      "level": 1
+    },
+    {
+      "dbid": "10087971",
+      "exptypeid": 6,
+      "name": "住宿",
+      "isdelete": 0,
+      "imgname": "hotel",
+      "status": 1,
+      "parentId": 0,
+      "level": 1
+    },
+    {
+      "dbid": "10087971",
+      "exptypeid": 7,
+      "name": "办公",
+      "isdelete": 0,
+      "imgname": "office",
+      "status": 1,
+      "parentId": 0,
+      "level": 1
+    },
+    {
+      "dbid": "10087971",
+      "exptypeid": 8,
+      "name": "补贴",
+      "isdelete": 0,
+      "imgname": "bonus",
+      "status": 1,
+      "parentId": 0,
+      "level": 1
+    },
+    {
+      "dbid": "10087971",
+      "exptypeid": 9,
+      "name": "借款",
+      "isdelete": 0,
+      "imgname": "loan",
+      "status": 1,
+      "parentId": 0,
+      "level": 1
+    },
+    {
+      "dbid": "10087971",
+      "exptypeid": 10,
+      "name": "长途1",
+      "isdelete": 0,
+      "imgname": "null",
+      "status": 0,
+      "parentId": 1,
+      "level": 2
+    },
+    {
+      "dbid": "10087971",
+      "exptypeid": 11,
+      "name": "长途2",
+      "isdelete": 0,
+      "imgname": null,
+      "status": 0,
+      "parentId": 1,
+      "level": 2
+    },
+    {
+      "dbid": "10087971",
+      "exptypeid": 12,
+      "name": "长途33333333333333333333333333333333333333",
+      "isdelete": 0,
+      "imgname": "null",
+      "status": 0,
+      "parentId": 10,
+      "level": 3
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "msg": "操作成功",
+  "data": {
+    "endBalance": 32339.9,
+    "name": "应付账款",
+    "childs": [{
+      "endBalance": 22363,
+      "name": "京华H钢"
+    }, {
+      "endBalance": 15318,
+      "name": "佳玉卢磊"
+    }, {
+      "endBalance": 13649,
+      "name": "辛集兴源泡沫"
+    }, {
+      "endBalance": 9863,
+      "name": "鸿瑞PVC"
+    }, {
+      "endBalance": 7800,
+      "name": "安平油漆"
+    }, {
+      "endBalance": 5500,
+      "name": "安平佰泰PVC"
+    }, {
+      "endBalance": 1710,
+      "name": "华兴氧气站"
+    }, {
+      "endBalance": -0.6,
+      "name": "唐山合钢物流公司（钢板）"
+    }, {
+      "endBalance": -30,
+      "name": "天津王世文"
+    }, {
+      "endBalance": -51,
+      "name": "东方华泰 （天津富鼎）"
+    }, {
+      "endBalance": -60,
+      "name": "衡水焊剂301"
+    }, {
+      "endBalance": -2000,
+      "name": "晋州邦特化工"
+    }, {
+      "endBalance": -4000,
+      "name": "唐山元旺板带加工有限公司"
+    }, {
+      "endBalance": -5705,
+      "name": "安平佳玉PVC"
+    }, {
+      "endBalance": -10006,
+      "name": "山东汇金彩钢有限公司"
+    }, {
+      "endBalance": -22010.5,
+      "name": "霸州三强金属制品"
+    }],
+    "dc": -1
+  },
+  "status": 200
+}
